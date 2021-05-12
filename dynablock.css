@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial;
+}
+
+a:link
+{
+    color: black;
+}
+
+a:visited
+{
+    color: black;
+}
+
+a:hover 
+{
+    color: SteelBlue;
+}
+
+
+body {
+  font-family:Tahoma
+  color: grey
+}
+
+a:link
+{
+  color: white
+}
+
+a:visited
+{
+  color: white
+}
+
+a:hover
+{
+  color: white
+}
+
+.archive
+{
+  border: 1;
+}
